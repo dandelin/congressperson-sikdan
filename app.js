@@ -18,7 +18,6 @@ window.onload = function(){
         }));
         render(moon, 'moon');
         render(ahn, 'ahn');
-        render(hong, 'hong');
         render(yoo, 'yoo');
         render(sim, 'sim');
     })
